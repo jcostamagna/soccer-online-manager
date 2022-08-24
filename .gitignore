@@ -32,3 +32,8 @@ out/
 
 create-order-db.sql
 create-sku-db.sql
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml

@@ -1,0 +1,7 @@
+{
+  "AWSEBDockerrunVersion": "1",
+  "Logging": "/soccer-app",
+  "Image": {
+    "Update": "false"
+  }
+}
